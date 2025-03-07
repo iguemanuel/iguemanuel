@@ -4,6 +4,7 @@
 Sou um **Desenvolvedor** e **Data Analyst** apaixonado por tecnologia e análise de dados. Atualmente, curso **Sistemas para Internet** na **UTFPR** e busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iguemanuel&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguemanuel&langs_count=8)
 
 ### 🚀 Habilidades e Tecnologias
 - **Desenvolvimento Web & Mobile:** Angular, Vue, TypeScript, React, React Native
