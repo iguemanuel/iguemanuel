@@ -20,7 +20,7 @@ Busco uma oportunidade **remota** como **desenvolvedor ou analista de dados**, o
 
 ### 📫 Contato
 - **LinkedIn:** [linkedin.com/in/igornascimento](https://www.linkedin.com/in/igornascimento)
-- **E-mail:** igor.nascimento@email.com
+- **E-mail:** igor17emanuel@gmail.com
 
 Vamos construir algo incrível juntos! 🚀
 
