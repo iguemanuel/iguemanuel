@@ -19,7 +19,7 @@ Tenho experiência na criação de dashboards interativos, análise de dados par
 Busco uma oportunidade **remota** como **desenvolvedor ou analista de dados**, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
 
 ### 📫 Contato
-- **LinkedIn:** [linkedin.com/in/igornascimento](https://www.linkedin.com/in/igornascimento)
+- **LinkedIn:** [linkedin.com/in/igor-emanuel-roque](https://www.linkedin.com/in/igor-emanuel-roque/)
 - **E-mail:** igor17emanuel@gmail.com
 
 Vamos construir algo incrível juntos! 🚀
