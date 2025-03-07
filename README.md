@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Igor Emanuel!
 
-<!--
-**iguemanuel/iguemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+Sou um **Desenvolvedor** e **Data Analyst** apaixonado por tecnologia e análise de dados. Atualmente, curso **Sistemas para Internet** na **UTFPR** e busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iguemanuel&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades e Tecnologias
+- **Desenvolvimento Web & Mobile:** Angular, Vue, TypeScript, React, React Native
+- **Análise de Dados & BI:** Power BI, DAX, SQL
+- **Banco de Dados:** MySQL 
+- **Idiomas:** Inglês intermediário
+
+### 📊 Experiência
+Tenho experiência na criação de dashboards interativos, análise de dados para insights estratégicos e desenvolvimento de aplicações modernas e responsivas.
+
+### 🎯 Objetivo Profissional
+Busco uma oportunidade **remota** como **desenvolvedor ou analista de dados**, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
+
+### 📫 Contato
+- **LinkedIn:** [linkedin.com/in/igornascimento](https://www.linkedin.com/in/igornascimento)
+- **E-mail:** igor.nascimento@email.com
+
+Vamos construir algo incrível juntos! 🚀
+
